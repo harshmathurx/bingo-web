@@ -1,4 +1,4 @@
-import BingoGame from './BingoGame'
+import BingoGame from "./BingoGame";
 
 export default function Home() {
   return (
